@@ -2,14 +2,14 @@
 
 You can download the **trajectory files** directly using the link below:
 
-<a href="https://csciitd-my.sharepoint.com/:f:/g/personal/ch1221465_iitd_ac_in/EvSWEVYWOmBPv91TLEd67usB1UzTbYdoceb69zjKFuTcWQ?e=g441mY" target="_blank">Download Trajectory File</a>
+<a href="https://csciitd-my.sharepoint.com/:f:/g/personal/ch1221465_iitd_ac_in/EvSWEVYWOmBPv91TLEd67usB1UzTbYdoceb69zjKFuTcWQ?e=g441mY" target="_blank">Download Trajectory Files</a>
 
 ---
 
 ## 📂 Additional Resources
 
-| Resource        | Description                    | Link                                                                                                                      |
-|-----------------|--------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| Documentation   | Detailed project guides        | [Read Documentation](https://example.com/documentation)                                                                 |
-| Source Code     | Complete source code repository| [View on GitHub](https://github.com/your-repo)                                                                            |
-| Issue Tracker   | Report and track issues        | [GitHub Issues](https://github.com/your-repo/issues)                                                                     |
+| Resource        | Description                     | Link                                                                                                                      |
+|-----------------|---------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Documentation   | Detailed project guides         | <a href="https://csciitd-my.sharepoint.com/:f:/g/personal/ch1221465_iitd_ac_in/EsucStwHih5CgI6IiCgBsM0B9Z2gx2SFuRfBHkqb3AJaXw?e=HrhhHh" target="_blank">View Literature here</a>                                                                 |
+| Source Code     | Complete source code repository | <a href="https://github.com/your-repo" target="_blank">View on GitHub</a>                                                                            |
+| Issue Tracker   | Report and track issues         | <a href="https://github.com/your-repo/issues" target="_blank">GitHub Issues</a>                                                                     |
