@@ -1,8 +1,8 @@
 ## 📁 Trajectory File
 
-You can download the **trajectory file** directly using the link below:
+You can download the **trajectory files** directly using the link below:
 
-[Download Trajectory File](https://csciitd-my.sharepoint.com/:f:/g/personal/ch1221465_iitd_ac_in/EvSWEVYWOmBPv91TLEd67usB1UzTbYdoceb69zjKFuTcWQ?e=g441mY)
+<a href="https://csciitd-my.sharepoint.com/:f:/g/personal/ch1221465_iitd_ac_in/EvSWEVYWOmBPv91TLEd67usB1UzTbYdoceb69zjKFuTcWQ?e=g441mY" target="_blank">Download Trajectory File</a>
 
 ---
 
