@@ -24,6 +24,8 @@ print(f"a = {params[1]}")
 print(f"T1 = {params[2]}")
 print(f"T2 = {params[3]}")
 
+visc_at_tcut = double_exponential(time[-1], *params)*1000
+plt.text(0.05, 0.85, f"Viscosity = {visc_at_tcut:.4g} mPa.s", transform=plt.gca().transAxes, fontsize=10)
 plt.plot(time, visc*1000, label="Data", linewidth=1)
 plt.plot(time, double_exponential(time, *params) * 1000, color="red", label="Fitted Curve", linewidth=1)
 plt.text(0.05, 0.9, f"A={params[0]:.4g}, a={params[1]:.4g}, T1={params[2]:.4g}, T2={params[3]:.4g}", transform=plt.gca().transAxes, fontsize=10)
