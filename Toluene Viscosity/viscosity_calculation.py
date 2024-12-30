@@ -260,7 +260,7 @@ viscosity_einstein = einstein()
 
 # Create output directory based on the input file name
 base_filename = os.path.splitext(os.path.basename(args.datafile))[0]  # Extract base name
-output_dir = f"{base_filename}_data"  # Define output directory name
+output_dir = os.path.join("Viscosity_Data",f"{base_filename}_data")  # Define output directory name
 os.makedirs(output_dir, exist_ok=True)  # Create the directory if it doesn't exist
 
 print(f"\nViscosity (Einstein): {round((viscosity_einstein[-1] * 1000), 2)} [mPa.s]")

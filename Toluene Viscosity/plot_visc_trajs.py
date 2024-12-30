@@ -26,7 +26,7 @@ for col in data.columns:
 viscosity_columns = [col for col in data.columns if "viscosity(Pa.s)" in col]
 
 # Plot all viscosity columns on a single graph
-plt.figure(figsize=(12, 8))
+plt.figure(figsize=(16, 12))  # Increased figure size for higher resolution
 
 for col in viscosity_columns:
     if "Average" in col:
@@ -47,7 +47,7 @@ plt.grid(True)
 
 # Save the plot
 output_plot_path = os.path.join(output_plot_dir, f"visc_trajs_plot_{method}.png")
-plt.savefig(output_plot_path)
+plt.savefig(output_plot_path, dpi=300)  # Set higher DPI for better resolution
 plt.close()
 
 print(f"Plot saved: {output_plot_path}")
